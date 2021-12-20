@@ -3,6 +3,7 @@ import { evaluate } from "mathjs";
 import 'bootstrap/dist/css/bootstrap-grid.min.css';
 import 'bootstrap/dist/css/bootstrap-utilities.min.css';
 import 'bootstrap/dist/css/bootstrap-reboot.min.css';
+import './index.css';
 
 const App = () => {
   const buttons = [
